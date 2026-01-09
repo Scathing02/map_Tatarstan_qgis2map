@@ -1,0 +1,1 @@
+var json__3 = {"type":"FeatureCollection","name":"_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null},"geometry":{"type":"Point","coordinates":[50.247654919319785,55.876910310204828]}}]}
