@@ -1,0 +1,1 @@
+# map_Tatarstan_qgis2map
